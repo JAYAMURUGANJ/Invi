@@ -19144,7 +19144,7 @@ r=$.at().d.i(0,0)
 r.toString
 s.JU(new A.ET(r,B.DB,new A.id(r,t.By)))
 s.yZ()
-$.afc().mB("playAudio",["assets/song.mp3"])},
+$.afc().mB("playAudio",["assets/Manamaganini-Sathiyam.mp3"])},
 rM:function rM(a){this.a=a},
 HW:function HW(a){this.a=null
 this.b=a
@@ -59693,7 +59693,7 @@ ag(){return new A.HW(B.j)}}
 A.HW.prototype={
 au(){this.b0()},
 U(a){var s=A.bE(a).p3,r=A.dO(s.a),q=A.dO(s.b),p=A.dO(s.c),o=A.dO(s.d),n=A.dO(s.e),m=A.dO(s.f),l=A.dO(s.r),k=A.dO(s.w),j=A.dO(s.x)
-return new A.rB(B.Gj,"JK-Invi",A.abd(null,B.dN,A.a6O(A.dO(s.y),A.dO(s.z),A.dO(s.Q),r,q,p,o,n,m,A.dO(s.as),A.dO(s.at),A.dO(s.ax),l,k,j),null),!1,null)}}
+return new A.rB(B.Gj,"DS-Invi",A.abd(null,B.dN,A.a6O(A.dO(s.y),A.dO(s.z),A.dO(s.Q),r,q,p,o,n,m,A.dO(s.as),A.dO(s.at),A.dO(s.ax),l,k,j),null),!1,null)}}
 A.uj.prototype={
 ag(){return new A.K3(null,null,B.j)}}
 A.K3.prototype={
@@ -59757,7 +59757,7 @@ if(r!=null)r.J(0,s.gdX())
 s.aQ$=null
 s.aP()}}
 A.ld.prototype={
-ag(){var s=A.akv(2023,6,4,10,30,0,0,!1)
+ag(){var s=A.akv(2024,2,26,6,30,0,0,!1)
 if(!A.mg(s))A.a7(A.mi(s))
 return new A.Hj(new A.ds(s,!1),null,null,B.j)}}
 A.Hj.prototype={
@@ -59797,9 +59797,9 @@ q=r.d
 q===$&&A.b()
 q.m()
 r.Nt()},
-U(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/ring.png",h="assets/center.png",g="J Jayamurugan",f="A Fathima Banu\nAlias\nA Keerthana",e="4th June 2023\n 10.00am to 12.00pm",d=t.w,c=A.cE(a,j,d).w.a.a,b=A.cE(a,j,d).w.a.b
+U(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/ring.png",h="assets/center.png",g="S Dhinesh",f="T Sowndarya",e="26th Feb 2024\n 6.00am to 7.30am",d=t.w,c=A.cE(a,j,d).w.a.a,b=A.cE(a,j,d).w.a.b
 d=t.nA
-s=A.Wk(A.a([new A.iq(B.ym,A.a5U(B.X,A.jv("assets/confetti.png",j,60),0,"btn1",!1,new A.a0t(k)),j),A.DQ(j,j,c/2),new A.iq(B.yk,A.a5U(B.X,A.jv("assets/map.png",j,60),0,"btn2",!1,new A.a0u()),j)],d),B.a0,B.ba,B.cA)
+s=A.Wk(A.a([new A.iq(B.ym,A.a5U(B.X,A.jv("assets/confetti.png",j,60),0,"btn1",!1,new A.a0t(k)),j),A.DQ(j,j,c/2)],d),B.a0,B.ba,B.cA)
 r=k.f
 r===$&&A.b()
 q=c>500
@@ -59812,7 +59812,7 @@ o.Q=A.a([],t.yl)
 o.Wl(B.Al)
 n=k.e
 n===$&&A.b()
-m=A.dj(A.iC("Engagement",B.uf,B.bh),n)
+m=A.dj(A.iC("Marriage Invite",B.uf,B.bh),n)
 l=k.ax
 l===$&&A.b()
 n=A.um(B.bY,A.a([new A.f4(B.uP,j,j,p,j),new A.f4(B.hD,j,j,A.jj(A.a([B.Gd,o,B.Ge,m,B.u4,A.dj(A.iC("("+l+")",B.It,B.bh),n),B.u4],d),B.a0,B.cz),j)],d),B.d0)
@@ -59827,21 +59827,18 @@ q=m}else{q=k.I3(b,c)
 o=A.jj(A.a([A.dj(B.ui,k.e)],d),B.a0,B.cz)
 m=k.e
 m=A.um(B.bY,A.a([A.jj(A.a([q,A.jj(A.a([o,B.d_,A.dj(A.iC(g,B.ec,B.ai),m),new A.f4(B.ad,j,j,A.a61(A.jv(i,j,p),"ring"),j),A.dj(A.iC(f,B.ec,B.ai),m),B.d_,A.dj(A.iC(e,B.hc,B.ai),m),B.d_,A.dj(new A.f4(B.ad,j,j,A.jv(h,j,p),j),m),A.dj(k.EW(),m),B.u3],d),B.a0,B.ba)],d),B.a0,B.ba)],d),B.d0)
-q=m}return A.akQ(A.aaK(B.i,new A.DO(A.a8Y(3.141592653589793,B.hI,A.jj(A.a([n,q,A.Wk(A.a([B.yU,A.iC("Jayamurugan\n9566632370",B.ug,B.ai)],d),B.a0,B.ba,B.cA),B.u3],d),B.a0,B.ba),B.j7,r,0.05,0.05,100,0.05,!1),j),s),!0)},
+q=m}return A.akQ(A.aaK(B.i,new A.DO(A.a8Y(3.141592653589793,B.hI,A.jj(A.a([n,q,A.Wk(A.a([B.yU,A.iC("Dhinesh\n8608524098",B.ug,B.ai)],d),B.a0,B.ba,B.cA),B.u3],d),B.a0,B.ba),B.j7,r,0.05,0.05,100,0.05,!1),j),s),!0)},
 EW(){var s=this.r
 s===$&&A.b()
-return A.a8Y(-1.256,B.v3,A.iC("Sri Vijayamahal Thirumana Mandapam\nManjakuppam,\nCuddalore-607 001",B.ug,B.ai),B.j7,s,0.05,0.05,100,0.03,!1)},
+return A.a8Y(-1.256,B.v3,A.iC("AISWARYAM MAHAL, North Street(Vadakku Veethi), Thirubuvanam, Tamil Nadu 612103",B.ug,B.ai),B.j7,s,0.05,0.05,100,0.03,!1)},
 I3(a,b){var s=this.e
 s===$&&A.b()
-return A.j6(s,new A.a0v(this),A.jv("assets/people.png",b>500?a/2:a/3,null))}}
+return A.j6(s,new A.a0v(this),A.jv("assets/ds.png",b>400?a/2:a/3,null))}}
 A.a0t.prototype={
 $0(){var s=this.a.r
 s===$&&A.b()
 s.b=B.dd
 s.a8()},
-$S:0}
-A.a0u.prototype={
-$0(){A.a7V(A.an2("https","www.google.com","/maps/search/",A.aC(["api","1","query","QQ79+MRV, Manjakuppam, Sri Padmavathy Nagar, Chavadi, Nathapattu, Tamil Nadu 607001"],t.N,t.z)))},
 $S:0}
 A.a0v.prototype={
 $2(a,b){var s,r=this.a.e
